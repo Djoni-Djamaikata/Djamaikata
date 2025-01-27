@@ -16,10 +16,10 @@ namespace Shop11A.Controllers
         public List<Product> products = new List<Product>
         {
             new Product{ Id = 1, Name = "Tablet PGMT 11a", Description = "Super mega giga tablet PGMT 11a", Price = 2000.11M, ImageUrl = "/images/t1.jpg" },
-            new Product{ Id = 2, Name = "Tablet PGMT 11b", Description = "Super mega giga tablet PGMT 11b", Price = 2234.11M, ImageUrl = "/images/t2.jpg" },
+            new Product{ Id = 2, Name = "Tablet PGMT 11b", Description = "Super mega giga tablet PGMT 11b", Price = 2234.11M, ImageUrl = "/images/Apple-tipped-to-release-the-largest-iPad-Pro-tablet-ever-in-2024-topping-the-12.9-inch-model.jpg" },
             new Product{ Id = 3, Name = "Tablet PGMT 12b", Description = "Super mega giga tablet PGMT 12b", Price = 2500.11M, ImageUrl = "/images/t3.jpg" },
 
-            new Product{ Id = 4, Name = "MehanoPhone 11a", Description = "Super mega giga MehanoPhone 11a", Price = 1500.11M, ImageUrl = "/images/p1.jpg" },
+            new Product{ Id = 4, Name = "MehanoPhone 11a", Description = "Super mega giga MehanoPhone 11a", Price = 1500.11M, ImageUrl = "/images/apple_iphone-15-pro_blue-titanium_sell_mip@_320.jpg" },
             new Product{ Id = 5, Name = "MehanoPhone 11b", Description = "Super mega giga MehanoPhone 11b", Price = 1600.11M, ImageUrl = "/images/p2.jpg" },
             new Product{ Id = 6, Name = "MehanoPhone 12b", Description = "Super mega giga MehanoPhone 12b", Price = 1700.11M, ImageUrl = "/images/p3.jpg" }
         };
